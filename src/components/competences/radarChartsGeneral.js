@@ -27,7 +27,7 @@ function RadarChartsGeneral ({datas, title}) {
         <Box sx={styleBox}>
             <Typography variant="h2">{title}</Typography>
             <ResponsiveContainer width="100%" height={370}>
-                <RadarChart outerRadius="78%" data={datas}>
+                <RadarChart outerRadius="70%" data={datas}>
                     <PolarGrid />
                     <PolarAngleAxis dataKey="skill" tick={styleTick} />
                     <PolarRadiusAxis domain={[0, 5]} axisLine={false} tickFormatter={notTicks}/>
