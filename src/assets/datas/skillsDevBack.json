@@ -1,0 +1,26 @@
+[
+    {
+        "skill": "Express",
+        "mark": 3,
+        "fullMark": 5,
+        "detail": "Utilisé pour un projet d'une application web pour une entreprise industrielle"
+    },
+    {
+        "skill": "Mongoose",
+        "mark": 3,
+        "fullMark": 5,
+        "detail": "Utilisé pour un projet d'une application web pour une entreprise industrielle"
+    },
+    {
+        "skill": "MongoDB",
+        "mark": 3,
+        "fullMark": 5,
+        "detail": "Utilisé pour un projet d'une application web pour une entreprise industrielle"
+    },
+    {
+        "skill": "JavaScript",
+        "mark": 4,
+        "fullMark": 5,
+        "detail": "Utilisé sur tous les projets"
+    }
+]

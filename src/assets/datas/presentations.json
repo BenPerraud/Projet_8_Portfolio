@@ -1,0 +1,39 @@
+[
+    {
+        "index": 1,
+        "year": 2010,
+        "description": "Classes préparatoires Eco",
+        "detail": "Après un baccalauréat S option Mathématiques, je me suis orienté vers une classe préparatoire"
+    },
+    {
+        "index": 2,
+        "year": 2012,
+        "description": "INSEEC Business School - Master Corporate Finance",
+        "detail": "En 2012, j'intègre l'INSEEC Business School de Bordeaux pour réaliser un Master en Corporate Finance avec notamment un stage de 6 mois à Bruxelles au sein du service reporting financier de SHURGARD, leader européen de la location de garde meubles "
+    },
+    {
+        "index": 3,
+        "year": 2015,
+        "description": "ACOM CF - Analyste financier Fusion-Acquisition",
+        "detail": "A la suite de mon diplôme, je suis embauché au sein de ACOM CF à Bordeaux, cabinet de conseil en fusion-acquisition en qualité d'analyste financier. En plus de la préparation des dossiers financiers, je suis en charge du développement de la branche Equity pour une plateforme de crowdfunding (définition de la stratégie commerciale et des process de production, recrutement et fornation des équipes, déploiement de l'activité)"
+    },
+    {
+        "index": 4,
+        "year": 2018,
+        "description": "ACOM CF - Chargé de dossiers Fusion-Acquisition",
+        "detail": "Basé à Paris, je suis en charge des dossiers de fusion-acquisition avec les équipes bordelaises ainsi que du développemnt commercial avec les fonds d'investissement en IDF"
+    },
+    {
+        "index": 5,
+        "year": 2020,
+        "description": "ACOM CF - Manager de Production",
+        "detail": "Basé à Bordeaux, je suis en charge de toutes les équipes de production avec recrutement, formation, encadrement, développement des outils informatiques et des process de production"
+    },
+    {
+        "index": 6,
+        "year": 2023,
+        "description": "Reconversion professionnelle - Déveoppeur Web",
+        "detail": "31 ans, j'entame une reconversion professionnnelle en qualité de Developpeur Web chez Open Classrooms"
+    }
+
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "skill": "Excel",
+        "mark": 5,
+        "fullMark": 5,
+        "detail": "Outil de travail durant 7 ans, développement des modèles financiers. Pas de connaissance en VBA"
+    },
+    {
+        "skill": "PowerPoint",
+        "mark": 3,
+        "fullMark": 5,
+        "detail": "Réalisation de dossier d'investissement"
+    },
+    {
+        "skill": "Management",
+        "mark": 4,
+        "fullMark": 5,
+        "detail": "Recrutement, formation et encadrement des équipes"
+    },
+    {
+        "skill": "Relation Client / Contre-parties",
+        "mark": 4,
+        "fullMark": 5,
+        "detail": "Lien constant avec des clients (dirigeant(e)s d'entreprise, présentation Investisseurs, animation de RDV"
+    },
+    {
+        "skill": "Anglais",
+        "mark": 3,
+        "fullMark": 5,
+        "detail": "Peut tenir une conversation courante à l'oral et à l'écrit"
+    },
+    {
+        "skill": "Espagnol",
+        "mark": 3,
+        "fullMark": 5,
+        "detail": "Peut tenir une conversation courante à l'oral et à l'écrit"
+    }
+]
+

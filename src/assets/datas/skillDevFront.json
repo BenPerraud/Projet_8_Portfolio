@@ -1,0 +1,38 @@
+[
+    {
+        "skill": "React",
+        "mark": 4,
+        "fullMark": 5,
+        "detail": "Plusieurs projets réalisés sous React"
+    },
+    {
+        "skill": "Recharts",
+        "mark": 3,
+        "fullMark": 5,
+        "detail": "Utilisé pour un projet d'une application web pour une entreprise industrielle"
+    },
+    {
+        "skill": "Material UI",
+        "mark": 2,
+        "fullMark": 5,
+        "detail": "Utilisé pour réaliser ce portfolio"
+    },
+    {
+        "skill": "CSS",
+        "mark": 4,
+        "fullMark": 5,
+        "detail": "Utilisé sur tous les projets"
+    },
+    {
+        "skill": "SEO",
+        "mark": 3,
+        "fullMark": 5,
+        "detail": "Connaissances de base, à travailler"
+    },
+    {
+        "skill": "UI Design",
+        "mark": 1,
+        "fullMark": 5,
+        "detail": "Ce portfolio en est la preuve..."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "skill": "Fusion-acquisition",
+        "mark": 5,
+        "fullMark": 5,
+        "detail": "Toute l'organisation d'un process d'achat/vente d'entreprise, de l'analyse financière à la recherche de contre-partie et la gestion des intervenants (Clients, CAC, EC, Avocats, Banquiers d'Affaires, Fonds d'investissement"
+    },
+    {
+        "skill": "Comptabilité",
+        "mark": 4,
+        "fullMark": 5,
+        "detail": "De la gestion des grands-livres à l'analyse de documents comptables "
+    },
+    {
+        "skill": "Fiscalité",
+        "mark": 3,
+        "fullMark": 5,
+        "detail": "Principalement dans le domaine de la cession, moins sur la fiscalité personnelle"
+    },
+    {
+        "skill": "Analyse financière",
+        "mark": 5,
+        "fullMark": 5,
+        "detail": "Des ratios de gestion aux ratios de LBO"
+    },
+    {
+        "skill": "Valorisation",
+        "mark": 5,
+        "fullMark": 5,
+        "detail": "Multi-méthodes"
+    },
+    {
+        "skill": "Juridique",
+        "mark": 3,
+        "fullMark": 5,
+        "detail": "Lecture et relecture de documentation juridique, connaissance des clauses juridiaues dans le cadre d'une transmission d'entreprise"
+    }
+]

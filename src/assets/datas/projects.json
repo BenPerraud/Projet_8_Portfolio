@@ -1,0 +1,32 @@
+[
+    {
+        "name": "SMI",
+        "designation": "Application de suivi de production en environnement industriel",
+        "detail": "Entreprise de marquage industriel. Le but est de pouvoir rentrer la production de chaque machine tous les jours et de pouvoir faire une analyse par produit (taux de rebut, cadence, rebut).",
+        "compétences": "React, Recharts, Express, Mongoose, MongoDB",
+        "special": "Déploiement sur le serveur local de l'entreprise",
+        "img": "project1.jpg",
+        "alt": "Astronaute coloré",
+        "link": "https://github.com/BenPerraud/SMI_Gestion.git"
+    },
+    {
+        "name": "KASA Immobilier",
+        "designation": "Projet Open Classrooms - React",
+        "detail": "Réaliser le frontend sous React d'un site de location de biens immobiliers entre particuliers",
+        "compétences": "React, JS, HTML, CSS",
+        "special": "Utilisation des hook et de la notion d'état des composants",
+        "img": "project2.jpg",
+        "alt": "Astronaute avec un costume blanc",
+        "link": "https://github.com/BenPerraud/Projet_7_Mon_Vieux_Grimoire.git"
+    },
+    {
+        "name": "Mon Vieux Grimoire",
+        "designation": "Projet Open Classrooms - Express / Mongoose",
+        "detail": "Réalisation d'un backend d'un site de notation de livres",
+        "compétences": "Express, Mongoose, MongoDB",
+        "special": "Implantation d'un green code pour compresser les images uploadées (Sharp)",
+        "img": "project3.png",
+        "alt": "Astronaute femme avec un casque multicoloré",
+        "link": "https://github.com/BenPerraud/Projet_7_Mon_Vieux_Grimoire.git"
+    }
+]
