@@ -3,13 +3,13 @@
         "skill": "Excel",
         "mark": 5,
         "fullMark": 5,
-        "detail": "Outil de travail durant 7 ans, développement des modèles financiers. Pas de connaissance en VBA"
+        "detail": "Outil de travail durant 7 ans, création des modèles financiers et gestion de BDD externes. Pas de connaissances en VBA"
     },
     {
         "skill": "PowerPoint",
-        "mark": 3,
+        "mark": 4,
         "fullMark": 5,
-        "detail": "Réalisation de dossier d'investissement"
+        "detail": "Réalisation de dossiers d'investissement"
     },
     {
         "skill": "Management",

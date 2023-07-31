@@ -9,7 +9,7 @@
         "skill": "Comptabilité",
         "mark": 4,
         "fullMark": 5,
-        "detail": "De la gestion des grands-livres à l'analyse de documents comptables "
+        "detail": "De la gestion des grands-livres à l'analyse des documents comptables "
     },
     {
         "skill": "Fiscalité",
@@ -33,6 +33,6 @@
         "skill": "Juridique",
         "mark": 3,
         "fullMark": 5,
-        "detail": "Lecture et relecture de documentation juridique, connaissance des clauses juridiaues dans le cadre d'une transmission d'entreprise"
+        "detail": "Lecture et relecture de documentation juridique, connaissance des clauses juridiques dans le cadre d'une transmission d'entreprise"
     }
 ]
